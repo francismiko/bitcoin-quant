@@ -1,0 +1,18 @@
+{
+  "generated_at": "2025-01-30T17:19:56.836900+00:00",
+  "columns": [
+    "timestamp",
+    "open",
+    "high",
+    "low",
+    "close",
+    "volume"
+  ],
+  "params": {
+    "exchange_name": "binance",
+    "symbol": "BTC/USDT",
+    "timeframe": "15m",
+    "days_back": 7
+  },
+  "data_hash": 586854519932410070
+}
